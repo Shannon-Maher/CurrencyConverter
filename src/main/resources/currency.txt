@@ -1,0 +1,5 @@
+United Arab Emirates, Dirham, AED, 7.2104
+Australia, Dollars, AUD, 1.51239
+Bosnia and Herzegovina, Convertible Marka, BAM, 2.60565
+Bulgaria, Leva, BGN, 2.60948
+United States, Dollars, USD, 1.45
